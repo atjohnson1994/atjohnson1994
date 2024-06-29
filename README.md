@@ -31,14 +31,10 @@ scored from 0-100 where 0 is not recomended and 100 is highly recommended.
 
 - **Link:** https://jossharlequin.github.io/spotify-popularity-project/Static/raw_data/raw_data.html
 
-### Fortune 500
+### SpotiFire
 
-The Fortune 500 is a list with the top 500 revenue earning companies each year. 
-The released list contains each company's yearly revenue, market value, and profit. 
-The aim of this project is to interpret the data in a visual and interactive way for educational purposes.
-Which companies and sectors produced the most revenue?
-How does market value and profit compare with the revenue gererated by these companies?
-Whick companies should be considered for potential investments?
+Flask app that builds custom spotify playlists for groups. When you need playlists on the fly built for specific people in mind, try spotifire!
+Add 'listeners' to your profile with all their favorite artists. Whenever you need a new playlist, select which listeners you want, then click create!
 
 
 ## Contact Me
